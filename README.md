@@ -1,2 +1,2 @@
-# FFT_128
-fft_128 project
+# FFT_64
+fft_64 project
